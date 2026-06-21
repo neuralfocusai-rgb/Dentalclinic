@@ -1,0 +1,6 @@
+{
+  "name": "Zobozdravstvo Surina",
+  "description": "Ultra-premium international landing page for Zobozdravstvo Surina, elite dental implant clinic in Slovenia near the Italian border, specializing in painless All-on-4 implants, conscious sedation, and advanced 3D CBCT digital diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
